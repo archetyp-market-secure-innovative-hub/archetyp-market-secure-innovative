@@ -55,3 +55,5 @@ If you're prepared to explore Archetyp: Market, focusing on its **secure and inn
 ### Disclaimer
 
 This guide is intended solely for educational purposes. The information provided is meant to increase awareness and understanding of the darknet. We neither endorse nor promote any illegal activities. Always comply with local laws and regulations when exploring the internet, and be aware of the need for a **secure and innovative** approach to online safety. Stay safe and informed!
+
+Update:  11 June Link is now live and reachable
