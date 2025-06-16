@@ -58,4 +58,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  13.06.2025 03:39:59
+
+
+Update: Cookie URLs
