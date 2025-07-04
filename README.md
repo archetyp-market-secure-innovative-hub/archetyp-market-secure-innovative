@@ -70,4 +70,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  26 June
+
+
+Update: Finally, the link is back online!
