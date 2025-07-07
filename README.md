@@ -72,4 +72,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update: Finally, the link is back online!
+
+
+Update: The link is responsive and live again.
