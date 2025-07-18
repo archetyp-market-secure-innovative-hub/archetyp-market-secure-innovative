@@ -76,4 +76,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  14.07.2025 04:03:03
+
+
+Update:  18 July 2025 url is live and operational
