@@ -78,4 +78,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  18 July 2025 url is live and operational
+
+
+Update:  Monday 21 July 2025 Awesome! The link is up and running.
